@@ -19,7 +19,7 @@ Este repositorio contiene los recursos y la estructura visual de la página de c
 
 ## 📝 Notas de Implementación
 * El sistema utiliza el **Nombre Completo** del usuario como referencia principal para la validación de pagos en lugar de folios numéricos para simplificar la experiencia del usuario.
-* El correo oficial para recepción de comprobantes es: `congresoregionalnorteponiente@hotmail.com`
+* El correo oficial para recepción de comprobantes es: `xxxxxxxxx`
 
 ---
 *Desarrollado por Dynamic Scale - 2026*
